@@ -1,0 +1,69 @@
+body {
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 40pt;
+}
+
+.summary  {
+	display: block;
+	background-color: #34495E;
+	color: white;
+	text-align: center;
+	position: static;
+}
+
+.up {
+	display: block;
+	background-color: #34495E;
+	color: white;
+	text-align: center;
+	position: static;
+}
+
+.up img {
+	position: absolute;
+	right: 0;
+}
+
+.heure {
+	display: block;
+	background-color: #FF5A00;
+	color: white;
+	text-align: center;
+	position: static;	
+}
+
+.heure img {
+	margin-bottom: 10px;
+}
+
+.login {
+	display: block;
+	background-color: #34495E;
+	color: white;
+	text-align: center;
+	position: static;
+}
+
+.next {
+	display: block;
+	background-color: #FF5A00;
+	color: white;
+	text-align: center;
+	position: static;
+}
+
+h1 {
+	font-size: 35pt;
+}
+
+h2 {
+	font-size: 25pt;
+}
+
+hr {
+	height: 1px;
+  	color: black;
+  	background-color: black;
+  	border: 0;
+}
